@@ -8,26 +8,29 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %} 
+{% include feature/jumbotron.html objectid="scan09.jpg" %} 
 
 {% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
 
-## About CollectionBuilder CSV
+## About The Project
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+Each of the works of art contained on this website was created for my Master's thesis in **Communication and Culture**.
+Each work was created by photographing objects of sentimental value with a CIS (Contact Image Sensor) printer scanner.
+Most objects have been distorted, warped, stretched, and abstracted within the image, a result of my interruption and disruption of the object's scan by physically manipulating the materials, the scanner itself, or the platen cover as the CIS bar carries out its scan. 
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+Throughout the course of my Master's program, I have been developing what I call, a *scanner way of thinking*, a research creation methodology that aims to unite frames of hauntology, affect theory, and material culture. These theoretical frames are considered under my critical conceptual metaphor of ***Necromancy***.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+Building out of the methodological frame of autotheory, my thesis work emphasizes personal, auto-ethnographic, and memoir-like writing to ground my  theorizations in my own lived experiences of grief, study, and arts-making.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
+Ultimately, I argue for the synthesis of these methodological and theoretical frames in order to,
+1. Contribute to the development of research creation methodologies for future RC scholars by offering up a critical conceptual grounding for scanner art as a methodology
+2. 
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+### Thinking Personally
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
+### Thinking Spectrally
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+### Thinking Atemporally
+
+{% include feature/image.html objectid="scan14.jpg" %} 
+

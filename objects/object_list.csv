@@ -1,6 +1,10 @@
 object_location,image_small,image_thumb
 /objects/210a.jpg,/objects/small/210a_sm.jpg,/objects/thumbs/210a_th.jpg
 /objects/210b.jpg,/objects/small/210b_sm.jpg,/objects/thumbs/210b_th.jpg
+/objects/Scan11.JPG,/objects/small/scan11_sm.jpg,/objects/thumbs/scan11_th.jpg
+/objects/Scan12.JPG,/objects/small/scan12_sm.jpg,/objects/thumbs/scan12_th.jpg
+/objects/Scan13.JPG,/objects/small/scan13_sm.jpg,/objects/thumbs/scan13_th.jpg
+/objects/Scan14.JPG,/objects/small/scan14_sm.jpg,/objects/thumbs/scan14_th.jpg
 /objects/demo_001.jpg,/objects/small/demo_001_sm.jpg,/objects/thumbs/demo_001_th.jpg
 /objects/demo_002.pdf,/objects/small/demo_002_sm.jpg,/objects/thumbs/demo_002_th.jpg
 /objects/demo_003.mp3,,
@@ -19,3 +23,5 @@ object_location,image_small,image_thumb
 /objects/scan08.JPG,/objects/small/scan08_sm.jpg,/objects/thumbs/scan08_th.jpg
 /objects/scan09.JPG,/objects/small/scan09_sm.jpg,/objects/thumbs/scan09_th.jpg
 /objects/scan10.JPG,/objects/small/scan10_sm.jpg,/objects/thumbs/scan10_th.jpg
+/objects/scan21.JPG,/objects/small/scan21_sm.jpg,/objects/thumbs/scan21_th.jpg
+/objects/scan22.JPG,/objects/small/scan22_sm.jpg,/objects/thumbs/scan22_th.jpg

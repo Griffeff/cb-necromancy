@@ -8,11 +8,11 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
-featured-image: scan06.jpg
+featured-image: scan03.jpg
 # optional: add extra padding around collection title for a larger image feature. 
-home-title-y-padding: 10em # the margin from the top your title portion will appear.
+home-title-y-padding: 5em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
-home-banner-image-position: top # Default is top
+home-banner-image-position: middle # Default is top
 
 ##########
 # ITEM PAGE
@@ -28,11 +28,11 @@ subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
-# Material Type PAGE
+# LOCATION PAGE
 #
-Material Type-fields: Material Type # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
-Material Type: 1 # min size for subject cloud, too many terms = slow load time!
-Material Type-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+Location-fields: Location # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+Location: 1 # min size for subject cloud, too many terms = slow load time!
+Location-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
 
 ##########
 # MAP PAGE

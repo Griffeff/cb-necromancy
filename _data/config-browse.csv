@@ -6,3 +6,5 @@ location,,true
 identifier,,,true,Identifier
 material-type,,true
 objects,,true
+background-type,,true,
+number-of-objects,,true

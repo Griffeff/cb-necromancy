@@ -1,10 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/,
-Browse,/browse.html,
-Objects,/objects.html,
-Material Type,/material-type.html,
-Timeline,/timeline.html,
-Data,/data.html,
 About,,
 About,/about.html,About
 About Scanner Art,/scanner.html,About
+Browse,/browse.html,
+Objects,/objects.html,
+Material Type,/material-type.html,
+Data,,
+Data,/data.html,Data
+Timeline,/timeline.html,Data

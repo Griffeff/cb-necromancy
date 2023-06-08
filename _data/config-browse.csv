@@ -4,3 +4,5 @@ creator,Creator,,,
 subject,,true
 location,,true
 identifier,,,true,Identifier
+material-type,,true
+objects,,true

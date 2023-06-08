@@ -25,9 +25,9 @@ tagline: A Hauntology of Grief, Materiality, and Research Creation
 # this description might appear in search result lists, keep around 160 characters max
 description: "Reimagining the Interrelationality and Materiality of Grief"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho;history;inland northwest
+keywords: hauntology;photography;scanner art;research creation;spectrality studies;distortion
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Griffen Horsley
 
 ##########
 # COLLECTION SETTINGS
@@ -49,11 +49,12 @@ metadata: necromancy-metadata
 # Site/Organization Branding 
 #   Enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #   To remove the branding, comment out these values, or delete them. 
+# HEY GRIFFEN, U REMOVED THE BRANDING HERE BY MAKING THE ORGANIZATION LINES (53-56) COMMENTS. GET RID OF THE HASHTAG TO BRING THEM BACK AND REPLACE W UR OWN CONTENT
 #
-organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-organization-link: https://cdil.lib.uidaho.edu/
-organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
-organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
+# organization-name: "Center for Digital Inquiry and Learning (CDIL)"
+# organization-link: https://cdil.lib.uidaho.edu/
+# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+# organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
 # GOOGLE SERVICES [optional!]

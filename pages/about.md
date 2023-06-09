@@ -44,9 +44,18 @@ Goffman then goes on to describe the role of “sign-vehicles”, or the means b
 These are the subtle gestural, visual, and tonal values we glean from others in typical interactions, and precisely that which Wesch finds missing and meaningful in our interactions and our attempts to represent ourselves in the physical and social absence of an audience.
 Material culture scholar John Robb elaborates on this attention to our interpersonal construction of selfhood by widening our lens to the non-human, to the material; “people act in a flow of action unfolding over time, and interactions with things form a central part of this flow” (Robb, 167).
 
-Robb writes that objects can contain within them an intuitive, sensory knowledge of their function. While these notions have been challenged in discourses of archaeological presumption, Robb hits on something that I believe contains vital energies of magic within them; that is to say, they contain in them a direct acknowledgement of the humanistic ability to glean and discern social, psychological meanings from materials through their visuality and physicality
+Robb writes that objects can contain within them an intuitive, sensory knowledge of their function. While these notions have been challenged in discourses of archaeological presumption, Robb hits on something that I believe contains vital energies of magic within them; that is to say, they contain in them a direct acknowledgement of the humanistic ability to glean and discern social, psychological meanings from materials through their visuality and physicality.
+
+Through an attention to the materials that help compose our innately interactive senses of self, we may be able to tune ourselves in to a post-humanist understanding that the lines between ourselves and others (whether they are human, non-human, no-longer-human, and so on).
+In doing so, in thinking interpersonally, we might open ourselves up to more ethical, less individualistic, and more interpersonally minded imaginings of self and being. 
 
 ### 2. Thinking Spectrally
 
+To think spectrally is to accept the strangeness of loss, embrace the dissonances of grief, and, most importantly, to implement hauntological frames of thinking on our everyday, personal experiences with loss and the past. 
+That is to say, to think spectrally is to understand, expect, and critically negotiate with the many ghosts and spectres that will, over the course of time, innevitably come to haunt you, your work, your arts making practices, and your (interpersonal) sense of self.
+
+
+
 ### 3. Thinking Atemporally
 
+More to come soon! 

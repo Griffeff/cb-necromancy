@@ -19,4 +19,4 @@ Founded by Sonia Sheridan at the School of the Art Institute of Chicago in 1969,
 Formed upon a groundwork of 'intentional' disruption to the standard use of business technologies, Sheridan and her students would become formative to the establishment of New Media arts and, especially, scanner art and its many related methodologies.
 
 
-
+**More to come soon!**

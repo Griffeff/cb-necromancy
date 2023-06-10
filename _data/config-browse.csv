@@ -1,10 +1,10 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
 creator,Creator,,,
-subject,,true
-location,,true
-identifier,,,true,Identifier
-material-type,,true
-objects,,true
-background-type,,true,
-number-of-objects,,true,hidden
+subject,,true,,,
+location,,true,,,
+identifier,,,true,,
+material-type,,true,true,,
+objects,,true,true,,
+background-type,,,true,,
+number-of-objects,,,true,,

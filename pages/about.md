@@ -50,11 +50,15 @@ Through an attention to the materials that help compose our innately interactive
 In doing so, in thinking interpersonally, we might open ourselves up to more ethical, less individualistic, and more interpersonally minded imaginings of self and being. 
 
 ### 2. Thinking Spectrally
+French philosopher Jacques Derrida's 1993 book, Spectres of Marx: The State of the Debt, the Work of Mourning and the New International, is famous for, among many things, coining the term *Hauntology*.
+Initially written as a slightly more than offhand pun on the word ontology, the nature of being, (pronounced with a silent *h* in the original French, *hantologie*), Derrida intended to explore the logic of hauntings, particularly to apply the metaphorical power of spectres to our social and cultural world.
+Derrida and other critical spectrality scholars such as Mark Fisher, aim to understand how elements from our social-cultural, political, and economic pasts influence and return to our modern day.
+One such scholar, Sadeq Rahimi, has written on the many ways in which our everyday lives are made up of hauntogenic elements, that our lived experiences are often shaped by the many invisibilized and unquantifiable volume of political, economic, and ethical forces that characterize globalized modernity.
 
-To think spectrally is to accept the strangeness of loss, embrace the dissonances of grief, and, most importantly, to implement hauntological frames of thinking on our everyday, personal experiences with loss and the past. 
-That is to say, to think spectrally is to understand, expect, and critically negotiate with the many ghosts and spectres that will, over the course of time, innevitably come to haunt you, your work, your arts making practices, and your (interpersonal) sense of self.
+Inspired by feminist and post-humanist scholarship, I employ autotheoretical and life writing methodologies to engage explicitly with my experiences as innately political and as existing beyond normative, prescriptive, and oppressive definitions of my subjective being as something innately individualistic.
 
-
+To think spectrally then is to accept the strangeness of loss, embrace the dissonances of grief, and, most importantly, to implement hauntological frames of thinking on our everyday, personal experiences with loss and the past. 
+That is to say, to think spectrally is to understand, expect, and critically negotiate with the many ghosts and spectres that will, over the course of time, innevitably come to haunt you, your work, your arts making practices, your (interpersonal) sense of self, and the many and varied ways you engage with and are shaped by the social, cultural, political, ethical, and, interpersonal forces that surround you.
 
 ### 3. Thinking Atemporally
 

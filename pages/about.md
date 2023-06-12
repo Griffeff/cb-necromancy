@@ -46,20 +46,24 @@ Material culture scholar John Robb elaborates on this attention to our interpers
 
 Robb writes that objects can contain within them an intuitive, sensory knowledge of their function. While these notions have been challenged in discourses of archaeological presumption, Robb hits on something that I believe contains vital energies of magic within them; that is to say, they contain in them a direct acknowledgement of the humanistic ability to glean and discern social, psychological meanings from materials through their visuality and physicality.
 
-Through an attention to the materials that help compose our innately interactive senses of self, we may be able to tune ourselves in to a post-humanist understanding that the lines between ourselves and others (whether they are human, non-human, no-longer-human, and so on).
-In doing so, in thinking interpersonally, we might open ourselves up to more ethical, less individualistic, and more interpersonally minded imaginings of self and being. 
+Through an attention to the materials that help compose our innately interactive senses of self, we may be able to tune ourselves in to a post-humanist understanding that the borders and boundaries that separate ourselves and others (whether they are human, non-human, no-longer-human, and so on) can be far more flexible and permeable than much of Western capitalist-colonial society, which thrives on the myth of competitive individualism, dictates.
+In doing so, in thinking interpersonally, we might open ourselves up to more ethical, less individualistic, and more socially collective minded imaginings of self and being. 
 
 ### 2. Thinking Spectrally
 French philosopher Jacques Derrida's 1993 book, Spectres of Marx: The State of the Debt, the Work of Mourning and the New International, is famous for, among many things, coining the term *Hauntology*.
 Initially written as a slightly more than offhand pun on the word ontology, the nature of being, (pronounced with a silent *h* in the original French, *hantologie*), Derrida intended to explore the logic of hauntings, particularly to apply the metaphorical power of spectres to our social and cultural world.
 Derrida and other critical spectrality scholars such as Mark Fisher, aim to understand how elements from our social-cultural, political, and economic pasts influence and return to our modern day.
 One such scholar, Sadeq Rahimi, has written on the many ways in which our everyday lives are made up of hauntogenic elements, that our lived experiences are often shaped by the many invisibilized and unquantifiable volume of political, economic, and ethical forces that characterize globalized modernity.
+To make any single choice in our contemporary world is to enter into a nexus of political, economic, social, ecological, and historical decisions and states that have been made far beyond the scope of an individual's ability to understand.
 
-Inspired by feminist and post-humanist scholarship, I employ autotheoretical and life writing methodologies to engage explicitly with my experiences as innately political and as existing beyond normative, prescriptive, and oppressive definitions of my subjective being as something innately individualistic.
+Inspired by feminist and post-humanist scholarship, I employ autotheoretical and life writing methodologies to engage explicitly with my experiences as innately political and as existing beyond normative, prescriptive, and oppressive definitions of my subjective being as something innately individualistic. 
 
 To think spectrally then is to accept the strangeness of loss, embrace the dissonances of grief, and, most importantly, to implement hauntological frames of thinking on our everyday, personal experiences with loss and the past. 
 That is to say, to think spectrally is to understand, expect, and critically negotiate with the many ghosts and spectres that will, over the course of time, innevitably come to haunt you, your work, your arts making practices, your (interpersonal) sense of self, and the many and varied ways you engage with and are shaped by the social, cultural, political, ethical, and, interpersonal forces that surround you.
 
 ### 3. Thinking Atemporally
 
-More to come soon! 
+Building outward from hauntological ways of thinking as well as from a wide range of scholarship surrounding the ontology and teleological implications of the photograph, asynchronicity and atemporality have become central to my concept of Necromancy.
+Film critic Andre Bazin has written that 
+
+Moreso, 

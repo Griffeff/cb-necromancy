@@ -1,9 +1,10 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-About,,
+About,,,
 About,/about.html,About
 About Scanner Art,/scanner.html,About
+What is Necromancy?,/what-is-necromancy.html,About
 Data,,,
 Data,/data.html,Data
 Timeline,/timeline.html,Data

@@ -26,7 +26,9 @@ Within this flow of action, the function imbued within and communicated by an ob
 This *encoded* understanding of an object's function, use-case, and intended purpose is  rooted in specific social, cultural, and often political contexts; the design of an object is never entirely arbitrary, but is instead built out of its anticipated use within a particular flow of action.
 When it comes to the anticipated flow of action for business communications technology, 
 
-For Sonia Sheridan, and now for myself in creating these scans, it is exactly this limited range of an anticipated flow of action that has been remediated towards
+For Sonia Sheridan, and now for myself in creating these scans, it is in remediating this limited range of an anticipated flow of action towards new ends that provides scanner and other corporate communications technology arts with its generative power. 
+
+That is to say, in 
 
 it is a redirection of limitation into possibility 
 

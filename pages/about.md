@@ -64,7 +64,7 @@ That is to say, to think spectrally is to understand, expect, and critically neg
 ### 3. Thinking Aprotensively
 
 Building outward from hauntological ways of thinking as well as from a wide range of scholarship surrounding the ontology and teleological implications of the photograph, asynchronicity and atemporality have become central to my concept of Necromancy.
-Film critic Andre Bazin has written that at the heart of photography there may lie some form of *mummy complex*, a drive within the plastic arts to artificially preserve the subject (or artist) from the flow of time, "to stow it away neatly, so to speak, in the hold of life" (p.4-5)
+Film critic Andre Bazin has written that at the heart of photography there may lie some form of *mummy complex*, a drive within the plastic arts to artificially preserve the subject (or artist) from the flow of time, "to stow it away neatly, so to speak, in the hold of life" (p.4-5).
 
 Moreso, Roland Barthes' formative 1980 book, *Camera Lucida* explores the strangely a/temporal and innately deathly undercurrent of photography, writing about the inborn surreality of seeing his deceased mother's childhood photos.
 Enamoured and estranged by these images, Barthes felt that photographs could both accurately, and inaccurately capture representative documentations of one's self, preserving only one moment of time, one iteration of our varied and contrary selves.

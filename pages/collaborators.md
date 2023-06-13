@@ -2,8 +2,9 @@
 title: Collaborators
 layout: about
 permalink: /collaborators.html
+credits: true
 ---
-{% include feature/jumbotron.html objectid=".jpg" %} 
+{% include feature/jumbotron.html objectid="scan30.jpg" %} 
 
 I'd like to extend a huge thank you to Olivia Wilke, Devin Becker, and Evan Williamson for creating and freely sharing the code for CollectionBuilder as well as for their great work in advocating for more ethical, longer lasting, and more accessible ways to navigate and create on the internet. The construction of this website could not have been possible without their skillful instruction and support while attending their workshop at the University of Victoria. 
 

@@ -42,7 +42,7 @@ In our day to day interactions “we carefully assess the context of the interac
 
 Goffman then goes on to describe the role of “sign-vehicles”, or the means by which we extract or express certain semiotic information in our interactions with others (Goffman, 1).
 These are the subtle gestural, visual, and tonal values we glean from others in typical interactions, and precisely that which Wesch finds missing and meaningful in our interactions and our attempts to represent ourselves in the physical and social absence of an audience.
-Material culture scholar John Robb elaborates on this attention to our interpersonal construction of selfhood by widening our lens to the non-human, to the material; “people act in a flow of action unfolding over time, and interactions with things form a central part of this flow” (Robb, 167).
+Material culture scholar John Robb elaborates on this attention to our interpersonal construction of selfhood by widening our lens to the non-human, to the material in his 2015 chapter *What Do Things Want? Object Design as a Middle Range Theory of Material Culture*; “people act in a flow of action unfolding over time, and interactions with things form a central part of this flow” (Robb, 167).
 
 Robb writes that objects can contain within them an intuitive, sensory knowledge of their function. While these notions have been challenged in discourses of archaeological presumption, Robb hits on something that I believe contains vital energies of magic within them; that is to say, they contain in them a direct acknowledgement of the humanistic ability to glean and discern social, psychological meanings from materials through their visuality and physicality.
 

@@ -33,5 +33,4 @@ That is to say, in
 it is a redirection of limitation into possibility 
 
 
-2015 chapter *What Do Things Want? Object Design as a Middle Range Theory of Material Culture*
 **More to come soon!**

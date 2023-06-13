@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="scan09.jpg" %} 
 
-{% include feature/nav-menu.html sections="About CollectionBuilder SA;About the About Page" %}
+{% include feature/nav-menu.html sections="About The Project;What am I doing?;1. Thinking Interpersonally;2. Thinking Spectrally;3. Thinking Aprotensively" %}
 
 # About The Project
 

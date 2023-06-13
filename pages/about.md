@@ -51,7 +51,7 @@ In doing so, in thinking interpersonally, we might open ourselves up to more eth
 {% include feature/image.html objectid="scan31.jpg"%}
 ### 2. Thinking Spectrally
 French philosopher Jacques Derrida's 1993 book, Spectres of Marx: The State of the Debt, the Work of Mourning and the New International, is famous for, among many things, coining the term *Hauntology*.
-Initially written as a pun on the word ontology, the nature of being, Derrida intended to explore the logic of hauntings, particularly to apply the metaphorical power of spectres to our social and cultural world.
+Initially written as a pun on the word ontology, the nature of being, Derrida intended to explore the logic of hauntings in order to apply the metaphorical power of spectres to our social and cultural world.
 Derrida and other critical spectrality scholars such as Mark Fisher, aim to understand how elements from our social-cultural, political, and economic pasts influence and return to our modern day.
 
 One such scholar, Sadeq Rahimi, has written on the many ways in which our everyday lives are made up of hauntogenic elements, that our lived experiences are often shaped by the many invisibilized and unquantifiable volume of political, economic, and ethical forces that characterize globalized modernity.

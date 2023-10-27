@@ -28,7 +28,7 @@ When it comes to the anticipated flow of action for business communications tech
 
 For Sonia Sheridan, and now for myself in creating these scans, it is in remediating this limited range of an anticipated flow of action towards new ends that provides scanner and other corporate communications technology arts with its generative power. 
 
-**More to come soon!**
+
 
 
 

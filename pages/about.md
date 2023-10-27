@@ -14,7 +14,7 @@ credits: true
 
 # About The Project
 
-Each of the works of art contained on this website was created for my Master's thesis in **Communication and Culture**.
+Each of the works of art contained on this website was created for my Master's thesis in **Communication and Culture**, a joint program offered by *York University* and *Toronto Metropolitan University*.
 Each work was created by photographing objects of sentimental value with a CIS (Contact Image Sensor) printer scanner.
 Most objects have been distorted, warped, stretched, and abstracted within the image, a result of my interruption and disruption of the object's scan by physically manipulating the materials, the scanner itself, or the platen cover as the CIS bar carries out its scan. 
 
